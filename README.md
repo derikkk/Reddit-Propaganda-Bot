@@ -1,18 +1,26 @@
 # Reddit-Propaganda-Bot
 [**project instructions** ](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_04
 
-###README.md file requirements
+### README.md file requirements
 1. Clearly states which politician your bot is supporting or opposing.
 2. Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
 3. Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
 
 ### What my score should be: 
-Required tasks total 20 points
-
 COMPLETE- Each task in `bot.py` is worth 3 points.
 (6 tasks * 3 points/task = 18 points)
 
 COMPLETE- Github repo (2 points)
+
+COMPLETE- Getting at least 100 valid comments posted. (2 points)
+
+COMPLETE- Getting at least 500 valid comments posted. (2 points)
+
+COMPLETE- Getting at least 1000 valid comments posted. (2 points)
+
+COMPLETE- Upvote any submissions that mention your favorite candidate (2 points)
+
+COMPLETE- Textblob sentiment analysis for upvoting/downvoting (2 points)
 
 ### Optional Tasks
 
