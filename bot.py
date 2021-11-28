@@ -88,13 +88,13 @@ submission = reddit.submission(url=submission_url)
 while True: #change to while True for final submission
 
     # Extra credit: using textblob to conduct sentiment analysis + upvote 
-    '''
+    
     submission_text = textblob(submission.title)
     if ("biden" in submission_text.lower() and submission_text.sentiment.polarity>0.7) or ("trump" in submission_text.lower() and submission_text.sentiment.polarity<-0.5):
         submission.upvote()
     elif ("biden" in submission_text.lower() and submission_text.sentiment.polarity<-0.7) or ("trump" in submission_text.lower() and submission_text.sentiment.polarity>0.5):
         submission.downvote()
-    '''
+   
 
     # printing the current time will help make the output messages more informative
     # since things on reddit vary with time
