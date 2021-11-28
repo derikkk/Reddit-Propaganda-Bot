@@ -2,9 +2,9 @@
 [**project instructions** ](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_04)
 
 ### README.md file requirements
-1. Clearly states which politician your bot is supporting or opposing.
-2. Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
-3. Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
+1. Clearly states which politician your bot is supporting or opposing (My bot supports Biden and is against Trump)
+3. Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
+4. Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
 
 ### What my score should be: 30/30
 COMPLETE- Each task in `bot.py` is worth 3 points.
