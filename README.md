@@ -6,7 +6,10 @@
 3. Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
 4. Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
 
-### What my score should be: 30/30
+### Botgoyeet Screenshot 
+<img width="1001" alt="Tweets Screenshot" src="https://github.com/derikkk/Reddit-Propaganda-Bot/blob/main/Tweets%20Screenshot.png">
+
+### What my score should be: 32/30
 COMPLETE- Each task in `bot.py` is worth 3 points.
 (6 tasks * 3 points/task = 18 points)
 
@@ -18,9 +21,11 @@ COMPLETE- Getting at least 500 valid comments posted. (2 points)
 
 COMPLETE- Getting at least 1000 valid comments posted. (2 points)
 
-COMPLETE- Upvote any submissions that mention your favorite candidate (2 points)
+COMPLETE- Replying to the most highly upvoted comment that you haven't replied to (2 points) --> Line 218
 
-COMPLETE- Textblob sentiment analysis for upvoting/downvoting (2 points)
+COMPLETE- Upvote any submissions that mention your favorite candidate (2 points) --> Lines 92 + 136
+
+COMPLETE- Textblob sentiment analysis for upvoting/downvoting (2 points) --> Lines 92 + 136
 
 ### The Output of my `bot_counter.py` file running:
 ```
