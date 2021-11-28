@@ -6,9 +6,6 @@
 3. Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
 4. Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
 
-### Botgoyeet Screenshot 
-<img width="1001" alt="Tweets Screenshot" src="https://github.com/derikkk/Reddit-Propaganda-Bot/blob/main/Tweets%20Screenshot.png">
-
 ### What my score should be: 32/30
 COMPLETE- Each task in `bot.py` is worth 3 points.
 (6 tasks * 3 points/task = 18 points)
@@ -41,6 +38,11 @@ valid_comments= 1000
 ========================================
 ```
 **Note: This was the output of the Bot Counter file before BotTown was banned.**
+
+### Botgoyeet Screenshot 
+<img width="1001" alt="Tweets Screenshot" src="https://github.com/derikkk/Reddit-Propaganda-Bot/blob/main/Tweets%20Screenshot.png">
+I like this screenshot because it implicitly replies to the previous bot's comment regarding trump. I also liked how I was able to address the supposed relationship between Kim Jong Un and Trump.
+
 ### Optional Tasks
 
 In order to earn full credit on the assignment,
