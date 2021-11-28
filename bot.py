@@ -215,6 +215,7 @@ while True: #change to while True for final submission
         if len(comments_without_replies) > 0:
             comment = random.choice(comments_without_replies)
             try:
+                comment = sorted(comments_without_replies, key=score_comment, reverse=True)[0]
                 comment.reply(generate_comment())
                 time.sleep(1)
                 print('existing_comment_body=', comment.body)
