@@ -35,8 +35,7 @@ len(valid_replies)= 909
 valid_comments= 1000
 ========================================
 ```
-NOTE: the number valid_comments is what will be used to determine your extra credit
-**Note: This was the output of the Bot Counter file before BotTown was banned.
+**Note: This was the output of the Bot Counter file before BotTown was banned.**
 ### Optional Tasks
 
 In order to earn full credit on the assignment,
