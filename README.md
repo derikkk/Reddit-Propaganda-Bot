@@ -22,6 +22,23 @@ COMPLETE- Upvote any submissions that mention your favorite candidate (2 points)
 
 COMPLETE- Textblob sentiment analysis for upvoting/downvoting (2 points)
 
+### The Output of my `bot_counter.py` file running:
+
+```
+Mrss-MacBook-Pro:redditbot oneinchdong $bot % python3 bot_counter.py --username=botgoyeet
+len(comments)= 1000
+len(top_level_comments)= 83
+len(replies)= 917
+len(valid_top_level_comments)= 83
+len(not_self_replies)= 917
+len(valid_replies)= 917
+========================================
+valid_comments= 1000
+========================================
+NOTE: the number valid_comments is what will be used to determine your extra credit
+Mrss-MacBook-Pro:redditbot oneinchdong$ bot % 
+```
+**Note: Valid comment count of 1000 was reached before BotTown was banned. This was the output of the Bot Counter file before BotTown was banned.
 ### Optional Tasks
 
 In order to earn full credit on the assignment,
