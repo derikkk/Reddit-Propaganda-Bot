@@ -39,9 +39,9 @@ valid_comments= 1000
 ```
 **Note: This was the output of the Bot Counter file before BotTown was banned.**
 
-### Botgoyeet Screenshot 
-<img width="1001" alt="Tweets Screenshot" src="https://github.com/derikkk/Reddit-Propaganda-Bot/blob/main/Tweets%20Screenshot.png">
-I like this screenshot because it implicitly replies to the previous bot's comment regarding trump. I also liked how I was able to address the supposed relationship between Kim Jong Un and Trump.
+### [Botgoyeet Screenshot] (https://www.reddit.com/r/BotTown2/comments/r4nt42/comment/hmhvfzj/?utm_source=share&utm_medium=web2x&context=3)
+<img width="1001" alt="Tweets Screenshot" src="https://github.com/derikkk/Reddit-Propaganda-Bot/blob/main/Tweets%20Final.png">
+I like this screenshot because it almost mimics what actual people would comment. Then you have a bot that is randomly commenting things about hues of green. All in all the other replies mention different political figures.
 
 ### Optional Tasks
 
